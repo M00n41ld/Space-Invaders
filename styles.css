@@ -25,19 +25,19 @@
   }
   
   .spaceship {
-    background-image: url("../images/spaceship.png");
+    background-image: url("images/spaceship.png");
   }
   
   .laser {
-    background-image: url("../images/projectile.png");
+    background-image: url("images/projectile.png");
   }
   
   .aliens {
-    background-image: url("../images/alien.png");
+    background-image: url("images/alien.png");
   }
   
   .hit {
-    background-image: url("../images/explosion.png");
+    background-image: url("images/explosion.png");
   }
   
   .message {
