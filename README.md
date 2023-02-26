@@ -18,9 +18,9 @@ Eather way Humans wins!
 ![image](https://user-images.githubusercontent.com/105647939/221401107-f63241aa-4440-4dbd-aac3-7ce775345e9b.png)
 
 
-
 Program is written on vanilla js, without any frameworks or libraries.
 It constists of 2 main functions, one that is Setting the board and one is Playing it. 
+
 ![image](https://user-images.githubusercontent.com/105647939/221401720-c8c7a04c-b07e-4de3-a12f-0f8131d65691.png)
 
 ![image](https://user-images.githubusercontent.com/105647939/221401754-82a55f1f-fcab-411e-a5bd-0b135ede43c0.png)
