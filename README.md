@@ -15,7 +15,7 @@ If you haven't killed all of them, before aliens hit the ground, then you are DE
 
 ![image](https://user-images.githubusercontent.com/105647939/221401072-0cbd4ff8-7edb-48f0-905f-421fe8202ccd.png)
 
-Eather way Humans wins!
+Either way Humans wins!
 
 ![image](https://user-images.githubusercontent.com/105647939/221401107-f63241aa-4440-4dbd-aac3-7ce775345e9b.png)
 
