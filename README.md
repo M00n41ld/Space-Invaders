@@ -1,6 +1,8 @@
 # Space Invaders
 Small arcade game. 
+
 Take your time, play and get relaxed. 
+
 Click to play https://m00n41ld.github.io/Space-Invaders/
 
 You can fire by using ENTER and change your position by using arrows.
@@ -28,6 +30,6 @@ It constists of 2 main functions, one that is Setting the Board
 
 And one is Playing it
 
-![image](https://user-images.githubusercontent.com/105647939/221401754-82a55f1f-fcab-411e-a5bd-0b135ede43c0.png)
+![image](https://user-images.githubusercontent.com/105647939/221402179-42b1c00f-034a-4564-aac7-04c91e211962.png)
 
 Alien's position is calculated dynamically.
