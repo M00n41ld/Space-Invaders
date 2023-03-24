@@ -22,6 +22,7 @@ Either way Humans wins!
 ![image](https://user-images.githubusercontent.com/105647939/221401107-f63241aa-4440-4dbd-aac3-7ce775345e9b.png)
 
 
+
 Program is written on vanilla js, without any frameworks or libraries.
 
 It constists of 2 main functions, one that is Setting the Board
